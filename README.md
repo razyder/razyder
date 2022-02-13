@@ -1,6 +1,6 @@
 <div align="right"><img src="https://komarev.com/ghpvc/?username=razyder&color=orange"/></div>
 
-### Hi there:wave:, I'm [Mahmood Ahmadi](https://maxckett.github.io/)
+### Hi there:wave:, I'm [Mahmood Ahmadi](https://razyder.github.io/)
 
 <div align="center"> <img src="https://github.com/razyder/razyder/blob/495cb763b1a128b41ee2c7ae1f0d40c3456e47fa/crazy_coder.gif"/></div>
 <div align="center">

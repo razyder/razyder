@@ -23,15 +23,13 @@
 ## :briefcase: My Activity:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2022%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 20 Contributions in the Year 2022
  > 
-> 📦 102 Bytes Used in GitHub's Storage 
+> 📦 104 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -95,7 +93,7 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/razyder/razyder/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/02/2022 02:27:43 UTC
+ Last Updated on 19/02/2022 02:25:01 UTC
 <!--END_SECTION:waka-->
   
 </div>

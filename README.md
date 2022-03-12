@@ -23,13 +23,15 @@
 ## :briefcase: My Activity:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2059%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-763%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 20 Contributions in the Year 2022
  > 
-> 📦 104 Bytes Used in GitHub's Storage 
+> 📦 110 Bytes Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,17 +68,13 @@ Sunday       16 commits     █████████████████�
 ⌚︎ Time Zone: Asia/Tehran
 
 💬 Programming Languages: 
-HTML                     9 hrs 34 mins       █████████████████████░░░░   84.18% 
-CSS                      1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.64% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06% 
-LESS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  11 hrs 22 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    11 hrs 22 mins      █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -93,7 +91,7 @@ HTML                     1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/razyder/razyder/main/charts/bar_graph.png) 
 
 
- Last Updated on 19/02/2022 02:25:01 UTC
+ Last Updated on 12/03/2022 02:27:16 UTC
 <!--END_SECTION:waka-->
   
 </div>
